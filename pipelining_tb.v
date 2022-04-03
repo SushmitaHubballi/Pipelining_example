@@ -3,7 +3,6 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer:
-//
 // Create Date:   10:40:55 03/19/2022
 // Design Name:   ex1
 // Module Name:   D:/xilinx_college/pipelining_1/ex1_tb.v
